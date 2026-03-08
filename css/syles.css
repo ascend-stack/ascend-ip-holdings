@@ -1,151 +1,146 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+body {
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+margin: 0;
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
 
-<title>Ascend IP Holdings</title>
+background-image: url("../assets/ascend-engineering-bg.png");
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
 
-<link rel="stylesheet" href="css/style.css">
+color: #e6edf3;
 
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:wght@500;700&display=swap" rel="stylesheet">
-
-</head>
-
-<body> {
-    margin: 0;
-    font-family: 'Segoe UI', Arial, sans-serif;
-    background-image: url('ascend-engineering-bg.png');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    color: #e6e6e6;
 }
 
-<header class="navbar">
+.nav {
 
-<div class="nav-container">
+position: fixed;
+top: 0;
+width: 100%;
+background: rgba(10,15,25,.75);
+backdrop-filter: blur(6px);
+border-bottom: 1px solid rgba(255,255,255,.05);
 
-<div class="logo">
+}
 
-<img src="assets/ascend-monogram-gold.svg" alt="Ascend Monogram">
+.nav-inner {
 
-<span>ASCEND IP HOLDINGS</span>
+max-width: 1200px;
+margin: auto;
+padding: 18px 30px;
 
-</div>
+display: flex;
+justify-content: space-between;
+align-items: center;
 
-<nav>
+}
 
-<a href="#">Technology</a>
-<a href="#">Licensing</a>
-<a href="#">Evaluation</a>
-<a href="#">Portfolio</a>
-<a href="#">Contact</a>
+.brand {
 
-</nav>
+font-weight: 600;
+letter-spacing: 2px;
+font-size: 14px;
 
-</div>
+}
 
-</header>
+.nav-links a {
 
+margin-left: 24px;
+text-decoration: none;
+color: #c9d1d9;
+font-size: 14px;
 
-<section class="hero">
+}
 
-<div class="hero-content">
+.nav-links a:hover {
 
-<img class="hero-logo" src="assets/ascend-monogram-gold.svg">
+color: white;
 
-<h1>ASCEND IP HOLDINGS</h1>
+}
 
-<p class="tagline">
-Engineered Industrial Systems<br>
-Structured Licensing Initiatives
-</p>
+.hero {
 
-<a class="cta-button" href="#">Technology Evaluation</a>
+height: 100vh;
 
-</div>
+display: flex;
+align-items: center;
+justify-content: center;
 
-</section>
+text-align: center;
+padding: 40px;
 
+}
 
-<section class="section">
+.hero-content {
 
-<div class="section-container">
+max-width: 720px;
 
-<h2>Technology</h2>
+}
 
-<p>
-Ascend IP Holdings develops engineered industrial systems
-designed for integration into modern vehicle platforms.
-</p>
+.logo {
 
-<p>
-Our flagship architecture, the Concentric Helper Sleeve Lift System (CHSLS),
-introduces a modular suspension solution designed to enhance vehicle dynamics
-while maintaining packaging efficiency.
-</p>
+width: 120px;
+margin-bottom: 30px;
 
-</div>
+}
 
-</section>
+h1 {
 
+font-size: 48px;
+margin-bottom: 10px;
+letter-spacing: .5px;
 
-<section class="section dark">
+}
 
-<div class="section-container">
+.subtitle {
 
-<h2>Licensing</h2>
+font-size: 20px;
+opacity: .85;
+margin-bottom: 25px;
 
-<p>
-Ascend IP Holdings pursues structured licensing opportunities
-with qualified Tier-1 suppliers and OEM partners.
-</p>
+}
 
-<p>
-Technical materials and engineering documentation are available
-under non-disclosure agreement for evaluation purposes.
-</p>
+.description {
 
-</div>
+font-size: 16px;
+opacity: .7;
+margin-bottom: 35px;
 
-</section>
+}
 
+.cta {
 
-<section class="section">
+display: inline-block;
+padding: 14px 32px;
 
-<div class="section-container">
+border-radius: 6px;
 
-<h2>Evaluation</h2>
+background: linear-gradient(135deg,#bfa46a,#e3c77e);
 
-<p>
-Engineering evaluation packages are available for qualified partners.
-</p>
+color: #111;
+font-weight: 600;
 
-<a class="cta-button" href="#">Request Evaluation Access</a>
+text-decoration: none;
 
-</div>
+}
 
-</section>
+.cta:hover {
 
+opacity: .9;
 
-<footer>
+}
 
-<div class="footer-container">
+.footer {
 
-<p>ASCEND IP HOLDINGS</p>
+text-align: center;
+padding: 40px;
+font-size: 13px;
+opacity: .6;
 
-<p>Engineered Industrial Systems • Structured Licensing Initiatives</p>
+}
 
-<p>Louisville • Kentuckiana</p>
+.footer-small {
 
-<p>contact@ascendipholdings.com</p>
+margin-top: 6px;
 
-</div>
-
-</footer>
-
-
-</body>
-</html>
+}
