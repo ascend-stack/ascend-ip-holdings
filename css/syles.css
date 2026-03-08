@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 body {
 
 margin: 0;
@@ -76,6 +79,18 @@ max-width: 720px;
 
 .logo:hover {
   transform: scale(1.04);
+}
+.divider {
+  width: 120px;
+  height: 1px;
+  margin: 20px auto 24px auto;
+
+  background: linear-gradient(
+    to right,
+    transparent,
+    #d4c08a,
+    transparent
+  );
 }
 
 h1 {
