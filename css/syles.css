@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Ascend IP Holdings</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:wght@500;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header class="navbar">
+
+<div class="nav-container">
+
+<div class="logo">
+
+<img src="assets/logo/ascend-monogram-gold.svg" alt="Ascend Monogram">
+
+<span>ASCEND IP HOLDINGS</span>
+
+</div>
+
+<nav>
+
+<a href="#">Technology</a>
+<a href="#">Licensing</a>
+<a href="#">Evaluation</a>
+<a href="#">Portfolio</a>
+<a href="#">Contact</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<section class="hero">
+
+<div class="hero-content">
+
+<img class="hero-logo" src="assets/logo/ascend-monogram-gold.svg">
+
+<h1>ASCEND IP HOLDINGS</h1>
+
+<p class="tagline">
+Engineered Industrial Systems<br>
+Structured Licensing Initiatives
+</p>
+
+<a class="cta-button" href="#">Technology Evaluation</a>
+
+</div>
+
+</section>
+
+
+<section class="section">
+
+<div class="section-container">
+
+<h2>Technology</h2>
+
+<p>
+Ascend IP Holdings develops engineered industrial systems
+designed for integration into modern vehicle platforms.
+</p>
+
+<p>
+Our flagship architecture, the Concentric Helper Sleeve Lift System (CHSLS),
+introduces a modular suspension solution designed to enhance vehicle dynamics
+while maintaining packaging efficiency.
+</p>
+
+</div>
+
+</section>
+
+
+<section class="section dark">
+
+<div class="section-container">
+
+<h2>Licensing</h2>
+
+<p>
+Ascend IP Holdings pursues structured licensing opportunities
+with qualified Tier-1 suppliers and OEM partners.
+</p>
+
+<p>
+Technical materials and engineering documentation are available
+under non-disclosure agreement for evaluation purposes.
+</p>
+
+</div>
+
+</section>
+
+
+<section class="section">
+
+<div class="section-container">
+
+<h2>Evaluation</h2>
+
+<p>
+Engineering evaluation packages are available for qualified partners.
+</p>
+
+<a class="cta-button" href="#">Request Evaluation Access</a>
+
+</div>
+
+</section>
+
+
+<footer>
+
+<div class="footer-container">
+
+<p>ASCEND IP HOLDINGS</p>
+
+<p>Engineered Industrial Systems • Structured Licensing Initiatives</p>
+
+<p>Louisville • Kentuckiana</p>
+
+<p>contact@ascendipholdings.com</p>
+
+</div>
+
+</footer>
+
+
+</body>
+</html>
