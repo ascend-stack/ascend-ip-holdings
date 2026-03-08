@@ -1,0 +1,23 @@
+
+ASCEND BRAND ASSET SPEC
+
+Primary Monogram: AS (Ascend)
+Structure: Geometric A with integrated S curve
+
+Primary Colors:
+Deep Navy: #0B1E3B
+Metallic Gold: #C8A44D
+Graphite: #2B2B2B
+Black: #000000
+
+Usage:
+Ascend IP Holdings – engineering documents, website header
+CHSLS Documentation – watermark & cover pages
+Ascend Security Services – badges, uniforms, vehicles
+
+Files Included:
+ascend_monogram_master.svg
+ascend_monogram_logo.png
+ascend_monogram_web_header.png
+ascend_monogram_favicon.png
+ascend_monogram_watermark.png
