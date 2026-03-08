@@ -13,7 +13,15 @@
 
 </head>
 
-<body>
+<body> {
+    margin: 0;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-image: url('ascend-engineering-bg.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #e6e6e6;
+}
 
 <header class="navbar">
 
@@ -21,7 +29,7 @@
 
 <div class="logo">
 
-<img src="assets/logo/ascend-monogram-gold.svg" alt="Ascend Monogram">
+<img src="assets/ascend-monogram-gold.svg" alt="Ascend Monogram">
 
 <span>ASCEND IP HOLDINGS</span>
 
@@ -46,7 +54,7 @@
 
 <div class="hero-content">
 
-<img class="hero-logo" src="assets/logo/ascend-monogram-gold.svg">
+<img class="hero-logo" src="assets/ascend-monogram-gold.svg">
 
 <h1>ASCEND IP HOLDINGS</h1>
 
