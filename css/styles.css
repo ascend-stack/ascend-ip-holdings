@@ -74,9 +74,13 @@ transition:all .25s ease;
 
 .nav-links a:hover{
 color:#d4af37;
+text-shadow:0 0 8px rgba(212,175,55,.35);
 }
 
 
+.hero{
+padding-top:120px;
+}
 .hero::before {
 content:"";
 position:absolute;
