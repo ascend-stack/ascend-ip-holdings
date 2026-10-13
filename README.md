@@ -6,7 +6,7 @@ Primary website repository for **Ascend IP Holdings LLC**, a Delaware limited li
 https://ascendipholdings.com
 
 ## Repository status
-This is the designated primary repository for website development and future hosting migration. The duplicate repository, [ascend-ip-holdings-site](https://github.com/ascend-stack/ascend-ip-holdings-site), is retained for reference. Make future website changes here.
+This is the designated primary repository for website development and future hosting migration. The former duplicate repository, `ascend-ip-holdings-site`, has been deleted. Make future website changes here.
 
 ## Focus Areas
 - Advanced mechanical systems
